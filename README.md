@@ -19,7 +19,6 @@ Portuguese ⭐⭐⭐⭐⭐
 Spanish ⭐⭐⭐  
 한국어 ⭐  
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/nathália-caldeira-9886b3173) | [Email](mailto:ncaldeira.trad@gmail.com)
 
 <!--
 **itchyskeleton/itchyskeleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

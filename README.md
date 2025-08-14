@@ -4,7 +4,7 @@ I'm a junior data analyst with a background in Life Sciences and education. I'm 
 
 🌱 I'm currently developing my knowledge in data visualization with Python, SQL and PowerBI.
 
-**Skills** 
+**Skills**  
 R ⭐⭐⭐⭐⭐  
 Excel ⭐⭐⭐⭐⭐  
 Python ⭐⭐⭐  
@@ -13,7 +13,7 @@ CSS ⭐⭐⭐
 SQL ⭐  
 PowerBI ⭐  
 
-**Talk to me in...**
+**Talk to me in...**  
 English ⭐⭐⭐⭐⭐  
 Portuguese ⭐⭐⭐⭐⭐  
 Spanish ⭐⭐⭐  

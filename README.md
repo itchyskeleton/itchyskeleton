@@ -5,19 +5,19 @@ I'm a junior data analyst with a background in Life Sciences and education. I'm 
 🌱 I'm currently developing my knowledge in data visualization with Python, SQL and PowerBI.
 
 **Skills** 
-R ⭐⭐⭐⭐⭐ 
-Excel ⭐⭐⭐⭐⭐
-Python ⭐⭐⭐
-HTML ⭐⭐⭐
-CSS ⭐⭐⭐
-SQL ⭐
-PowerBI ⭐
+R ⭐⭐⭐⭐⭐  
+Excel ⭐⭐⭐⭐⭐  
+Python ⭐⭐⭐  
+HTML ⭐⭐⭐  
+CSS ⭐⭐⭐  
+SQL ⭐  
+PowerBI ⭐  
 
-**Talk to me in...***
-English ⭐⭐⭐⭐⭐
-Portuguese ⭐⭐⭐⭐⭐
-Spanish ⭐⭐⭐
-한국어 ⭐
+**Talk to me in...**
+English ⭐⭐⭐⭐⭐  
+Portuguese ⭐⭐⭐⭐⭐  
+Spanish ⭐⭐⭐  
+한국어 ⭐  
 
 📫 Reach me: [LinkedIn](www.linkedin.com/in/nathália-caldeira-9886b3173) | [Email](mailto:ncaldeira.trad@gmail.com)
 

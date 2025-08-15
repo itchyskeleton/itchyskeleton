@@ -17,7 +17,9 @@ PowerBI ⭐
 English ⭐⭐⭐⭐⭐  
 Portuguese ⭐⭐⭐⭐⭐  
 Spanish ⭐⭐⭐  
-한국어 ⭐  
+한국어 ⭐
+
+📬 **Contact me:** [LinkedIn](https://www.linkedin.com/in/nathália-caldeira-9886b3173) | [Email](mailto:ncaldeira.trad@gmail.com)
 
 
 <!--

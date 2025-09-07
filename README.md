@@ -2,7 +2,7 @@
 
 I'm a junior data analyst with a background in Life Sciences and education. I'm always looking for exciting questions that can be answered with data.
 
-🌱 I'm currently developing my knowledge in data visualization with Python, SQL and PowerBI.
+🌱 I'm currently developing my knowledge in data visualization with Python and PowerBI, and in databases with SQL.
 
 **Skills**  
 R ⭐⭐⭐⭐⭐  
